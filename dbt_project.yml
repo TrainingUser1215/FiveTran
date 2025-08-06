@@ -44,3 +44,5 @@ models:
       +materialized: table
     Transformed:
       +materialized: table
+    Json:
+      +materialized: table
