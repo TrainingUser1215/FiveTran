@@ -42,3 +42,5 @@ models:
       +materialized: table
     Multiple_Table:
       +materialized: table
+    Transformed:
+      +materialized: table
